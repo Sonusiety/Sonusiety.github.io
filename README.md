@@ -97,3 +97,10 @@ Step 6: Build website and redact datastory
 |Saged Bounekhel | [sonusiety](https://github.com/sonusiety) | Step4:Ego Network, Step6:Website, Step6:Datastory |
 |Ouerghemi Naël  | [ghemDD](https://github.com/ghemDD) | Step3:Network Analysis, Step6:Datastory |
 
+We ultimately decided not to use the IMDB Dataset because we did not have enough resources to properly run it.
+For personal contributions,
+Hamza: Ego Networks
+Saged, Omar: Graph visualizations 
+Nael: Worked on the website.
+Everyone worked on the Datastory.
+
