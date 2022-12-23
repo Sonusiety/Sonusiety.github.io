@@ -101,6 +101,9 @@ We ultimately decided not to use the IMDB Dataset because we did not have enough
 We were unable to compute some of the metrics we originally planned to do in P2.
 For personal contributions,
 Hamza and Nael: Ego Networks and Website.
-Saged, Omar: Graph pvisualizations and filtrations for Hollywood and Bollywood.
+Saged, Omar: Graph visualizations and preparations for Hollywood and Bollywood.
 Everyone worked on the Datastory.
-
+Ego Networks: Hamza
+Website: Nael
+Data story: Everyone
+This is the link for the data story: https://ghemdd.github.io/
