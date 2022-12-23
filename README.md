@@ -98,9 +98,9 @@ Step 6: Build website and redact datastory
 |Ouerghemi Naël  | [ghemDD](https://github.com/ghemDD) | Step3:Network Analysis, Step6:Datastory |
 
 We ultimately decided not to use the IMDB Dataset because we did not have enough resources to properly run it.
+We were unable to compute some of the metrics we originally planned to do in P2.
 For personal contributions,
-Hamza: Ego Networks
-Saged, Omar: Graph visualizations 
-Nael: Worked on the website.
+Hamza and Nael: Ego Networks and Website.
+Saged, Omar: Graph pvisualizations and filtrations for Hollywood and Bollywood.
 Everyone worked on the Datastory.
 
